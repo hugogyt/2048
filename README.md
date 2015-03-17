@@ -1,4 +1,5 @@
 # 2048
+This is another version of the 2048 game designed by Gabriele Cirulli. It is designed by and for Neoma BS students as the elections for the BDS (2015/2016) are coming. 
 A small clone of [1024](https://play.google.com/store/apps/details?id=com.veewo.a1024), based on [Saming's 2048](http://saming.fr/p/2048/) (also a clone).
 
 Made just for fun. [Play it here!](http://gabrielecirulli.github.io/2048/)
